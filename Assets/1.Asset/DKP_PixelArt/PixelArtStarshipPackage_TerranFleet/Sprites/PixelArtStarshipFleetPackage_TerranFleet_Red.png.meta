@@ -1,0 +1,499 @@
+fileFormatVersion: 2
+guid: 29280373f4463b74f9f3e295bdeeb6f5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PixelArtStarshipFleetPackage_TerranFleet_Red_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 481
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea3911861b07554ca819830a52e62ac
+      internalID: 420506314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtStarshipFleetPackage_TerranFleet_Red_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 481
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8307c28e9667d244b3fa26e0caf413b
+      internalID: -891687787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtStarshipFleetPackage_TerranFleet_Red_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 450
+        width: 40
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184ccfe2ddf0d3b488e417c15885cfb4
+      internalID: -1322776387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtStarshipFleetPackage_TerranFleet_Red_3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 403
+        width: 48
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7273ba5f5830124eb4918f77570e851
+      internalID: 571720860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtStarshipFleetPackage_TerranFleet_Red_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 398
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6397b34c19bfeae46b8c05245b238c82
+      internalID: -855847836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtStarshipFleetPackage_TerranFleet_Red_5
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 399
+        width: 56
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfa50ed29d516d449fe8b39f945502d
+      internalID: 1446638982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtStarshipFleetPackage_TerranFleet_Red_6
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 261
+        width: 102
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70937ce03f0608c43993c665dfbe57d0
+      internalID: 256746402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtStarshipFleetPackage_TerranFleet_Red_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 450
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4e693c1f3a807a49baaafcefcaa4b71
+      internalID: 1634734078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtStarshipFleetPackage_TerranFleet_Red_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 449
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76125a64f5c433499b746985a43bbc9
+      internalID: -96628357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtStarshipFleetPackage_TerranFleet_Red_9
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 386
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff95f497dc7a7bd459eefe2c87a36cdd
+      internalID: -159590289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtStarshipFleetPackage_TerranFleet_Red_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 386
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebdba1a88b225c4581e209ef4b5b29c
+      internalID: -592592268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtStarshipFleetPackage_TerranFleet_Red_11
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 261
+        width: 84
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8d48b5db3c83243894eaf791893a49
+      internalID: 218022280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtStarshipFleetPackage_TerranFleet_Red_12
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 259
+        width: 104
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b2932af687be54eb58a76f31c1eba0
+      internalID: -2014038711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtStarshipFleetPackage_TerranFleet_Red_13
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 258
+        width: 74
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2dfb679e3b6c645b0c0d9f963b9567
+      internalID: 1893375765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtStarshipFleetPackage_TerranFleet_Red_14
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 8
+        width: 156
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bfd9e5e4bd341488779a495eb53f9d
+      internalID: -1591240625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PixelArtStarshipFleetPackage_TerranFleet_Red_15
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 8
+        width: 196
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea8c4e9916a5589408f2b559d32fe53f
+      internalID: 569123698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PixelArtStarshipFleetPackage_TerranFleet_Red_0: 420506314
+      PixelArtStarshipFleetPackage_TerranFleet_Red_1: -891687787
+      PixelArtStarshipFleetPackage_TerranFleet_Red_10: -592592268
+      PixelArtStarshipFleetPackage_TerranFleet_Red_11: 218022280
+      PixelArtStarshipFleetPackage_TerranFleet_Red_12: -2014038711
+      PixelArtStarshipFleetPackage_TerranFleet_Red_13: 1893375765
+      PixelArtStarshipFleetPackage_TerranFleet_Red_14: -1591240625
+      PixelArtStarshipFleetPackage_TerranFleet_Red_15: 569123698
+      PixelArtStarshipFleetPackage_TerranFleet_Red_2: -1322776387
+      PixelArtStarshipFleetPackage_TerranFleet_Red_3: 571720860
+      PixelArtStarshipFleetPackage_TerranFleet_Red_4: -855847836
+      PixelArtStarshipFleetPackage_TerranFleet_Red_5: 1446638982
+      PixelArtStarshipFleetPackage_TerranFleet_Red_6: 256746402
+      PixelArtStarshipFleetPackage_TerranFleet_Red_7: 1634734078
+      PixelArtStarshipFleetPackage_TerranFleet_Red_8: -96628357
+      PixelArtStarshipFleetPackage_TerranFleet_Red_9: -159590289
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
